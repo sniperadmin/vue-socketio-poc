@@ -1,5 +1,7 @@
 # poc-chat-socketio
 
+![chat-socket](src/assets/screenshot.png "screenshot")
+
 ## Project setup
 ```
 npm install
